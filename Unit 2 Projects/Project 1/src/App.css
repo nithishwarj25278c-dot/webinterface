@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+}
+
+.page {
+  width: 80%;
+  margin: auto;
+  background: white;
+}
+
+header {
+  text-align: center;
+  padding: 40px;
+  background: #333;
+  color: white;
+}
+
+section {
+  padding: 25px;
+  border-bottom: 1px solid #ddd;
+}
+
+h2 {
+  color: #333;
+}
+
+p {
+  line-height: 1.6;
+}
+
+li {
+  margin: 8px;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #333;
+  color: white;
+}
